@@ -16,7 +16,7 @@ A professional pricing calculator for security services, built for Markham Inves
 
 
 
-\[View Live Calculator](https://tristenmarkham.github.io/mip-security-calculator/)
+\[View Live Calculator](https://Aetheris-Technologies-LLP.github.io/mip-security-calculator/)
 
 
 
